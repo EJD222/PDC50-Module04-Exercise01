@@ -112,8 +112,8 @@
                 WidthRequest="320"
                 Aspect="AspectFill"
                 SemanticProperties.Description="Employee Photo" />
-            
-            <Button Text="Take a photo"
+
+            <Button Text="Take Employee Photo"
                     BackgroundColor="{DynamicResource TertiaryColor}"
                     TextColor="{DynamicResource PrimaryColor}"
                     Clicked="OnCapturePhotoClicked"
