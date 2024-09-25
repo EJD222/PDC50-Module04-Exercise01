@@ -1,20 +1,25 @@
-# Module 03 - Exercise 02 (PDC50-LAB)
+# Module04 - Exercise01 (PDC50-LAB)
 
     Name of Student: Elmalia Jane S. Diaz
     Year and Section: BSIT4A
-    Activity Title: Module 03 - Exercise 02
-    Date Submitted: September 11, 2024
+    Activity Title: Module04-Exercise01
+    Date Submitted: September 25, 2024
 
-## Adding Dependency Injection to the Employee View App
+## Adding an AddEmployee  page to the Employee View App
 ### Source Code
-- [IMyService.cs](Module03Exercise01/Services/IMyService.cs)
-- [MauiProgram.cs](Module03Exercise01/MauiProgram.cs)
-- [LoginPage.xaml](Module03Exercise01/View/LoginPage.xaml)
-- [LoginPage.xaml.cs](Module03Exercise01/View/LoginPage.xaml.cs)
-- [App.xaml.cs](Module03Exercise01/App.xaml.cs)
+- [AddEmployee.xaml](Module03Exercise01/View/AddEmployee.xaml)
+- [AddEmployee.xaml.cs](Module03Exercise01/View/AddEmployee.xaml.cs)
 
-## Login Page with Service
+## Add Employee Page
 ### Output Screenshot
 <p align="center">
-    <img src="Screenshots/Service.png" alt="Service" width="270" height="585">
+    <img src="Screenshots/AddEmployee-1.png" alt="AddEmployee-1" width="270" height="585">
+    <img src="Screenshots/AddEmployee-2.png" alt="AddEmployee-2" width="270" height="585">
+</p>
+
+## Add Employee Page with Details
+### Output Screenshot
+<p align="center">
+    <img src="Screenshots/AddEmployeeWithDetails-1.png" alt="AddEmployeeWithDetails-1" width="270" height="585">
+    <img src="Screenshots/AddEmployeeWithDetails-2.png" alt="AddEmployeeWithDetails-2" width="270" height="585">
 </p>
